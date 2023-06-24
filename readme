@@ -1,0 +1,2 @@
+- test ffmpeg transcode and super resolution comuputing overhead and computing delay(use python script to record)
+- design the model and find a algorithm resolution
